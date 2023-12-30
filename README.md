@@ -1,2 +1,3 @@
 # Node1
-Usnado la informacion de datos
+Usando la informacion de datos
+poe equipo
